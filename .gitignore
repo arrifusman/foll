@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
+scully.log
 
 # Node
 /node_modules

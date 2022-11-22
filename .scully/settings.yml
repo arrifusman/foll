@@ -1,0 +1,11 @@
+identifier: l3a3rdr6n4hct9aa
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: folapp
+homeFolder: /home/arba/Documents/jams/folapp
+distFolder: ./dist/folapp
+outDir: /home/arba/Documents/jams/folapp/dist/static
+handle404: ''
+allowErrorCollect: false
